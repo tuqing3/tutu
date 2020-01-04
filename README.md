@@ -1,4 +1,4 @@
-# tutu
+# python 
 python学习代码
 共七章，基础python编程代码
 包括numpy/pandas/matplotlib、爬虫等内容
